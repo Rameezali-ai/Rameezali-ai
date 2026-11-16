@@ -1,16 +1,38 @@
-## Hi there 👋
+**Hi, I'm Rameez Ali** 👋
 
-<!--
-**Rameezali-ai/Rameezali-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Science Student | Aspiring AI Engineer**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science undergraduate at Iqra University, passionate about technology, programming, and Artificial Intelligence.
+
+**🚀 About Me**
+- 🎓 Pursuing Bachelor's in Computer Science
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 💻 Exploring software development and programming
+- 🌱 Continuously learning and building practical projects
+- 🎯 Goal: Pursue a Master's degree in Artificial Intelligence
+
+**🛠️ Technical Skills**
+- Python
+- C++
+- Java
+- JavaScript
+- HTML & CSS
+- SQL
+
+**🎯 Areas of Interest**
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Natural Language Processing
+
+**📌 Current Focus**
+Building practical projects, improving programming skills, and exploring AI technologies.
+
+**🤝 Let's Connect**
+- LinkedIn: https://www.linkedin.com/in/rameez-ali-4141302a7/
+- GitHub: You're already here!
+
+⭐ Thanks for visiting my profile!
